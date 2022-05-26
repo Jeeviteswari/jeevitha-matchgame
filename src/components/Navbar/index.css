@@ -1,0 +1,44 @@
+.navbar {
+  height: 7vh;
+  width: 100%;
+  background-color: #2c0e3a;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 10px;
+}
+.website-logo {
+  height: 50px;
+  width: 200px;
+}
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.score-name {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+.score {
+  color: #fec653;
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.timer-image {
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+}
+.time {
+  color: #fec653;
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
